@@ -1,0 +1,194 @@
+﻿{
+  "ref": "refs/heads/master",
+  "before": "3788cdca93cbbc6391e870768fa704851a006e73",
+  "after": "36df00245479fe1ca68454dc55651c55ac04082a",
+  "repository": {
+    "id": 257760607,
+    "node_id": "MDEwOlJlcG9zaXRvcnkyNTc3NjA2MDc=",
+    "name": "thinking-code",
+    "full_name": "renzhsh/thinking-code",
+    "private": true,
+    "owner": {
+      "name": "renzhsh",
+      "email": "renzhsh@126.com",
+      "login": "renzhsh",
+      "id": 8417241,
+      "node_id": "MDQ6VXNlcjg0MTcyNDE=",
+      "avatar_url": "https://avatars1.githubusercontent.com/u/8417241?v=4",
+      "gravatar_id": "",
+      "url": "https://api.github.com/users/renzhsh",
+      "html_url": "https://github.com/renzhsh",
+      "followers_url": "https://api.github.com/users/renzhsh/followers",
+      "following_url": "https://api.github.com/users/renzhsh/following{/other_user}",
+      "gists_url": "https://api.github.com/users/renzhsh/gists{/gist_id}",
+      "starred_url": "https://api.github.com/users/renzhsh/starred{/owner}{/repo}",
+      "subscriptions_url": "https://api.github.com/users/renzhsh/subscriptions",
+      "organizations_url": "https://api.github.com/users/renzhsh/orgs",
+      "repos_url": "https://api.github.com/users/renzhsh/repos",
+      "events_url": "https://api.github.com/users/renzhsh/events{/privacy}",
+      "received_events_url": "https://api.github.com/users/renzhsh/received_events",
+      "type": "User",
+      "site_admin": false
+    },
+    "html_url": "https://github.com/renzhsh/thinking-code",
+    "description": "thinking code for ever",
+    "fork": false,
+    "url": "https://github.com/renzhsh/thinking-code",
+    "forks_url": "https://api.github.com/repos/renzhsh/thinking-code/forks",
+    "keys_url": "https://api.github.com/repos/renzhsh/thinking-code/keys{/key_id}",
+    "collaborators_url": "https://api.github.com/repos/renzhsh/thinking-code/collaborators{/collaborator}",
+    "teams_url": "https://api.github.com/repos/renzhsh/thinking-code/teams",
+    "hooks_url": "https://api.github.com/repos/renzhsh/thinking-code/hooks",
+    "issue_events_url": "https://api.github.com/repos/renzhsh/thinking-code/issues/events{/number}",
+    "events_url": "https://api.github.com/repos/renzhsh/thinking-code/events",
+    "assignees_url": "https://api.github.com/repos/renzhsh/thinking-code/assignees{/user}",
+    "branches_url": "https://api.github.com/repos/renzhsh/thinking-code/branches{/branch}",
+    "tags_url": "https://api.github.com/repos/renzhsh/thinking-code/tags",
+    "blobs_url": "https://api.github.com/repos/renzhsh/thinking-code/git/blobs{/sha}",
+    "git_tags_url": "https://api.github.com/repos/renzhsh/thinking-code/git/tags{/sha}",
+    "git_refs_url": "https://api.github.com/repos/renzhsh/thinking-code/git/refs{/sha}",
+    "trees_url": "https://api.github.com/repos/renzhsh/thinking-code/git/trees{/sha}",
+    "statuses_url": "https://api.github.com/repos/renzhsh/thinking-code/statuses/{sha}",
+    "languages_url": "https://api.github.com/repos/renzhsh/thinking-code/languages",
+    "stargazers_url": "https://api.github.com/repos/renzhsh/thinking-code/stargazers",
+    "contributors_url": "https://api.github.com/repos/renzhsh/thinking-code/contributors",
+    "subscribers_url": "https://api.github.com/repos/renzhsh/thinking-code/subscribers",
+    "subscription_url": "https://api.github.com/repos/renzhsh/thinking-code/subscription",
+    "commits_url": "https://api.github.com/repos/renzhsh/thinking-code/commits{/sha}",
+    "git_commits_url": "https://api.github.com/repos/renzhsh/thinking-code/git/commits{/sha}",
+    "comments_url": "https://api.github.com/repos/renzhsh/thinking-code/comments{/number}",
+    "issue_comment_url": "https://api.github.com/repos/renzhsh/thinking-code/issues/comments{/number}",
+    "contents_url": "https://api.github.com/repos/renzhsh/thinking-code/contents/{+path}",
+    "compare_url": "https://api.github.com/repos/renzhsh/thinking-code/compare/{base}...{head}",
+    "merges_url": "https://api.github.com/repos/renzhsh/thinking-code/merges",
+    "archive_url": "https://api.github.com/repos/renzhsh/thinking-code/{archive_format}{/ref}",
+    "downloads_url": "https://api.github.com/repos/renzhsh/thinking-code/downloads",
+    "issues_url": "https://api.github.com/repos/renzhsh/thinking-code/issues{/number}",
+    "pulls_url": "https://api.github.com/repos/renzhsh/thinking-code/pulls{/number}",
+    "milestones_url": "https://api.github.com/repos/renzhsh/thinking-code/milestones{/number}",
+    "notifications_url": "https://api.github.com/repos/renzhsh/thinking-code/notifications{?since,all,participating}",
+    "labels_url": "https://api.github.com/repos/renzhsh/thinking-code/labels{/name}",
+    "releases_url": "https://api.github.com/repos/renzhsh/thinking-code/releases{/id}",
+    "deployments_url": "https://api.github.com/repos/renzhsh/thinking-code/deployments",
+    "created_at": 1587519459,
+    "updated_at": "2020-04-22T01:37:46Z",
+    "pushed_at": 1588252297,
+    "git_url": "git://github.com/renzhsh/thinking-code.git",
+    "ssh_url": "git@github.com:renzhsh/thinking-code.git",
+    "clone_url": "https://github.com/renzhsh/thinking-code.git",
+    "svn_url": "https://github.com/renzhsh/thinking-code",
+    "homepage": null,
+    "size": 5,
+    "stargazers_count": 0,
+    "watchers_count": 0,
+    "language": null,
+    "has_issues": true,
+    "has_projects": true,
+    "has_downloads": true,
+    "has_wiki": true,
+    "has_pages": false,
+    "forks_count": 0,
+    "mirror_url": null,
+    "archived": false,
+    "disabled": false,
+    "open_issues_count": 3,
+    "license": {
+      "key": "apache-2.0",
+      "name": "Apache License 2.0",
+      "spdx_id": "Apache-2.0",
+      "url": "https://api.github.com/licenses/apache-2.0",
+      "node_id": "MDc6TGljZW5zZTI="
+    },
+    "forks": 0,
+    "open_issues": 3,
+    "watchers": 0,
+    "default_branch": "master",
+    "stargazers": 0,
+    "master_branch": "master"
+  },
+  "pusher": {
+    "name": "renzhsh",
+    "email": "renzhsh@126.com"
+  },
+  "sender": {
+    "login": "renzhsh",
+    "id": 8417241,
+    "node_id": "MDQ6VXNlcjg0MTcyNDE=",
+    "avatar_url": "https://avatars1.githubusercontent.com/u/8417241?v=4",
+    "gravatar_id": "",
+    "url": "https://api.github.com/users/renzhsh",
+    "html_url": "https://github.com/renzhsh",
+    "followers_url": "https://api.github.com/users/renzhsh/followers",
+    "following_url": "https://api.github.com/users/renzhsh/following{/other_user}",
+    "gists_url": "https://api.github.com/users/renzhsh/gists{/gist_id}",
+    "starred_url": "https://api.github.com/users/renzhsh/starred{/owner}{/repo}",
+    "subscriptions_url": "https://api.github.com/users/renzhsh/subscriptions",
+    "organizations_url": "https://api.github.com/users/renzhsh/orgs",
+    "repos_url": "https://api.github.com/users/renzhsh/repos",
+    "events_url": "https://api.github.com/users/renzhsh/events{/privacy}",
+    "received_events_url": "https://api.github.com/users/renzhsh/received_events",
+    "type": "User",
+    "site_admin": false
+  },
+  "created": false,
+  "deleted": false,
+  "forced": false,
+  "base_ref": null,
+  "compare": "https://github.com/renzhsh/thinking-code/compare/3788cdca93cb...36df00245479",
+  "commits": [
+    {
+      "id": "36df00245479fe1ca68454dc55651c55ac04082a",
+      "tree_id": "f9719bcfb45fcd2d63533067a2ee55be967b3964",
+      "distinct": true,
+      "message": "Update README.md",
+      "timestamp": "2020-04-30T21:11:36+08:00",
+      "url": "https://github.com/renzhsh/thinking-code/commit/36df00245479fe1ca68454dc55651c55ac04082a",
+      "author": {
+        "name": "renzhsh",
+        "email": "renzhsh@126.com",
+        "username": "renzhsh"
+      },
+      "committer": {
+        "name": "GitHub",
+        "email": "noreply@github.com",
+        "username": "web-flow"
+      },
+      "added": [
+
+      ],
+      "removed": [
+
+      ],
+      "modified": [
+        "README.md"
+      ]
+    }
+  ],
+  "head_commit": {
+    "id": "36df00245479fe1ca68454dc55651c55ac04082a",
+    "tree_id": "f9719bcfb45fcd2d63533067a2ee55be967b3964",
+    "distinct": true,
+    "message": "Update README.md",
+    "timestamp": "2020-04-30T21:11:36+08:00",
+    "url": "https://github.com/renzhsh/thinking-code/commit/36df00245479fe1ca68454dc55651c55ac04082a",
+    "author": {
+      "name": "renzhsh",
+      "email": "renzhsh@126.com",
+      "username": "renzhsh"
+    },
+    "committer": {
+      "name": "GitHub",
+      "email": "noreply@github.com",
+      "username": "web-flow"
+    },
+    "added": [
+
+    ],
+    "removed": [
+
+    ],
+    "modified": [
+      "README.md"
+    ]
+  }
+}
