@@ -141,14 +141,14 @@ namespace ZeroConsole.Tasks
 
         private ZeroCIOption FindCIOption()
         {
-            string path = $"{Context.ProjectDir}/zero-ci.yml";
+            FileInfo info = new FileInfo($"{Context.ProjectDir}/zero-ci.yml");
 
-            if (!File.Exists(path))
+            if (!info.Exists)
             {
                 return null;
             }
 
-            return new ZeroCIOptionBuilder().AddYamlFile(path).Build();
+            return new ZeroCIOptionBuilder().AddYamlFile(info.FullName).Build();
         }
 
         private void BuildJobs(ZeroCIOption options)

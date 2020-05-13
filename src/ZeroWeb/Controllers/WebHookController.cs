@@ -14,15 +14,21 @@ using System.Security.Cryptography;
 
 namespace ZeroConsole.Controllers
 {
+    using Model;
+    using Tasks;
+
+
     [Route("[controller]")]
     [ApiController]
     public class WebHookController : ControllerBase
     {
         private readonly IConfiguration _configuration;
+        private readonly TaskEngine _taskEngine;
 
-        public WebHookController(IConfiguration configuration)
+        public WebHookController(IConfiguration configuration, TaskEngine taskEngine)
         {
             _configuration = configuration;
+            _taskEngine = taskEngine;
         }
 
         [HttpPost("push")]
@@ -51,6 +57,15 @@ namespace ZeroConsole.Controllers
                         return BadRequest();
                     }
                 }
+
+                GitPushEvent gitPushEvent =
+                    new GitPushEventBuilder()
+                    .AddPushPayload(payload.ToString())
+                    .Build();
+
+                gitPushEvent.Platform = type;
+
+                _taskEngine.AddPushEvent(gitPushEvent);
             }
 
             return Ok();
